@@ -1,0 +1,35 @@
+
+h1{
+    font-family:'Source Sans Pro', sans-serif;
+    color: #92a8d1;
+    background-color: #dd8;
+    display:inline-flex;
+    border-radius: 5px;
+}
+table{
+    width:100%;
+    border:1px solid rgb(58, 61, 60);
+    font-family:'Source Sans Pro', sans-serif;
+    border-radius: 5px;
+    margin-top:1rem;
+}
+th{
+    border-bottom:1px solid rgb(58,61,60);
+    text-align:left;
+    padding:8px;
+    color: red;
+    
+
+    
+}
+td{
+    justify-content: center;
+    flex-direction: row;
+}
+.cls{
+    background-color: #dddddd;
+}
+body{
+    background-color: rgb(145, 231, 231);
+}
+
